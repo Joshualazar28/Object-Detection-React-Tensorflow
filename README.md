@@ -17,8 +17,7 @@ Building an Object Detection App with Tensorflow.JS and React.JS
 
 
 ## Demo
-
-Insert gif or link to demo
+https://josh-object-detection.web.app
 
 
 ## Screenshots
